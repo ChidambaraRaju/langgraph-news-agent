@@ -79,7 +79,7 @@ source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
 
 ### 3. Install Dependencies
 ```bash
-uv pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 
 ### 4. Set Up Environment Variables
