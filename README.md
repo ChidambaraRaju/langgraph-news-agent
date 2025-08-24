@@ -52,7 +52,7 @@ graph TD
 
 * **Backend:** Python
 * **AI & Orchestration:** LangChain, LangGraph
-* **LLMs:** Groq (Llama 3 70B)
+* **LLMs:** Groq Cloud
 * **Tools:** Tavily Search
 * **Data Validation:** Pydantic
 * **Frontend:** Streamlit
