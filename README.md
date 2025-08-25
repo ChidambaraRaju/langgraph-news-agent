@@ -52,7 +52,7 @@ graph TD
 
 * **Backend:** Python
 * **AI & Orchestration:** LangChain, LangGraph
-* **LLMs:** Groq (Llama 3 70B)
+* **LLMs:** Groq Cloud
 * **Tools:** Tavily Search
 * **Data Validation:** Pydantic
 * **Frontend:** Streamlit
@@ -79,7 +79,7 @@ source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
 
 ### 3. Install Dependencies
 ```bash
-uv pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 
 ### 4. Set Up Environment Variables
