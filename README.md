@@ -1,6 +1,6 @@
 # The Daily Agent 📰 - A Smart AI Newspaper Generator
 
-![The Daily Agent Banner]([https://user-images.githubusercontent.com/assets/your-github-id/your-image-id](https://github.com/ChidambaraRaju/langgraph-news-agent/blob/main/assets/image.png)) **The Daily Agent** is an advanced, multi-agent application built with Python, LangChain, and LangGraph that autonomously generates a personalized daily newspaper based on a user's natural language request. It can create a general-interest newspaper with standard sections or a special report focused on specific topics mentioned by the user.
+![The Daily Agent Banner](https://github.com/ChidambaraRaju/langgraph-news-agent/blob/main/assets/image.png) **The Daily Agent** is an advanced, multi-agent application built with Python, LangChain, and LangGraph that autonomously generates a personalized daily newspaper based on a user's natural language request. It can create a general-interest newspaper with standard sections or a special report focused on specific topics mentioned by the user.
 
 ---
 ## 🎬 Live Demo
