@@ -5,9 +5,7 @@
 ---
 ## 🎬 Live Demo
 
-
-
-
+![Live Demo](https://github.com/ChidambaraRaju/langgraph-news-agent/blob/main/assets/video.gif)
 
 ---
 ## ✨ Key Features
