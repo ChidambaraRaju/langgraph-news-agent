@@ -62,8 +62,8 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone https://github.com/ChidambaraRaju/langgraph-news-agent
+cd langgraph-news-agent
 ```
 
 ### 2. Create a Virtual Environment
